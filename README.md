@@ -16,7 +16,7 @@ A modern, responsive, and interactive developer portfolio built with **Next.js**
 - **UI Enhancements**: React-Draggable, React-Resizable
 
 ## 🎬 Preview
-[Live Demo](https://vijayvenkatj.me)
+[Live Demo](https://terminal.vijayvenkatj.me)
 
 ## 🛠️ Usage
 - Drag the terminal.
